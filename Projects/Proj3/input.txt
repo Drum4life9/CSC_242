@@ -1,0 +1,13 @@
+12
+bubba: cletus lurlene
+cletus: lurlene bubba
+lurlene: bubba
+dar2yl: bubba
+brain: bubba brian becca doofenshmirtz
+brian: bubba dar2yl brain
+nate: bubba
+bryn: person bubba nate brian
+tom: bubba
+becca: bubba doofenshmirtz
+doofenshmirtz: bubba
+person: bubba
